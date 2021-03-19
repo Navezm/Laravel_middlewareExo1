@@ -1,5 +1,5 @@
 @extends('template.main')
 
 @section('content')
-    <h1>Bijour tout le monde !</h1>
+    <h1>This is the backoffice hello everyone !</h1>
 @endsection
